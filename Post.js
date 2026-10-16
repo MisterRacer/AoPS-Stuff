@@ -2,7 +2,7 @@ AoPS.Community.Utils.cmty_ajax.add({
     a: "submit_post",
     params: {
         attachments: "[]",
-        post_text: "Hi :3",
+        post_text: "Hi :3 $           $",
         notify_email: 0,
         topic_id: 3749140,
         allow_latex_errors: 0,
